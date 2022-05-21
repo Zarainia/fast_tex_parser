@@ -1,1 +1,5 @@
-/src/cmake-build-debug/
+.idea
+cmake-build-debug/
+build/
+dist/
+fast_tex_parser.egg-info/
